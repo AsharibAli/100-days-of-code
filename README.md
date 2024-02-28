@@ -12,7 +12,6 @@ The goal is simple: dedicate a portion of your day to learning and coding in Typ
 ## 📚 What You Will Learn
 
 - **Day 1-100:** Become a TypeScript Developer, Beginner to Advance Level. 
-- **Complete Visual Guide Coming Soon**
 
 ## 📖 How to Approach This Challenge
 
@@ -39,8 +38,9 @@ Keep a daily log of your progress. Share your achievements, no matter how small,
 
 Are you ready to embark on this 100-day journey? Remember, the path to becoming a TypeScript developer is not just about reading and watching but about doing. Let's code, learn, and grow together! 🚀
 
-### 📅 Start Date: [Announcing Soon]
+### 📅 Start Date: [28/02/2024]
 
 *Happy Coding, and see you at the finish line!* 🏁
+*Please Star the Repositry🌟*
 
 **#100DaysOfTypeScript #CodeToLearn #LearningJourney**
