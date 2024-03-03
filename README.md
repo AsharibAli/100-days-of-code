@@ -7,11 +7,11 @@ This is your starting point to transition from a complete beginner to a confiden
 
 ## 🎯 Challenge Objective
 
-The goal is simple: dedicate a portion of your day to learning and coding in TypeScript for the next 100 days. By the end of this journey, you will have a solid understanding of TypeScript and its applications, making you a proficient TypeScript developer. 🌈
+The goal is simple: dedicate a portion of your day to learning and coding in TypeScript for the next 100 days. By the end of this journey, you will have a solid understanding of TypeScript and its applications, making you a proficient JavaScript/TypeScript developer. 🌈
 
 ## 📚 What You Will Learn
 
-- **Day 1-100:** Become a TypeScript Developer, Beginner to Advance Level. 
+- **Day 1-100:** Become a JavaScript/TypeScript Developer, Beginner to Advance Level. 
 
 ## 📖 How to Approach This Challenge
 
@@ -23,12 +23,7 @@ The goal is simple: dedicate a portion of your day to learning and coding in Typ
 
 ## 🤝 Join the Community
 
-Join our community on [Discord] to connect with fellow learners, share your progress, and find support throughout your learning journey. Together, we grow stronger! 🌟
-
-## 🛠️ Resources
-
-- **[Official TypeScript Documentation](https://www.typescriptlang.org/):** A great place to start and reference throughout your journey.
-- **[Panaverse, Learn TypeScript in Baby Steps](https://github.com/panaverse/learn-typescript)**.
+Join our community on [Discord](https://discord.gg/fZYVnuGKAG) to connect with fellow learners, share your progress, and find support throughout your learning journey. Together, we grow stronger! 🌟
 
 ## 📝 Daily Log
 
