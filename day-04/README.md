@@ -1,1 +1,0 @@
-# Variables in Programming/TypeScript/JavaScript
