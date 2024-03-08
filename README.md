@@ -9,7 +9,7 @@ The goal is simple: dedicate a portion of your day to learning and coding for th
 
 ## 📚 What You Will Learn
 
-- **Day 1-100:** Become a JavaScript/TypeScript Developer, Beginner to Advance Level. 
+- **Day 1-100:** Become a Developer, Beginner to Advance Level. 
 
 ## 📖 How to Approach This Challenge
 
