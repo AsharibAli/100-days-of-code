@@ -1,13 +1,11 @@
-# 🚀 100 Days of TypeScript Challenge 🚀
+# 🚀 100 Days of Coding Challenge 🚀
 
-Welcome to the **100 Days of TypeScript Challenge**!
-This is your starting point to transition from a complete beginner to a confident TypeScript developer. <br>
-
-🌟 TypeScript has become a cornerstone in modern web development, and mastering it will open doors to numerous opportunities.
+Welcome to the **100 Days of Coding Challenge**!
+This is your starting point to transition from a complete beginner to a confident developer. <be>
 
 ## 🎯 Challenge Objective
 
-The goal is simple: dedicate a portion of your day to learning and coding in TypeScript for the next 100 days. By the end of this journey, you will have a solid understanding of TypeScript and its applications, making you a proficient JavaScript/TypeScript developer. 🌈
+The goal is simple: dedicate a portion of your day to learning and coding for the next 100 days. By the end of this journey, you will have a solid understanding of programming languages like javascript, and typescript, making you a proficient developer. 🌈
 
 ## 📚 What You Will Learn
 
@@ -23,7 +21,7 @@ The goal is simple: dedicate a portion of your day to learning and coding in Typ
 
 ## 🤝 Join the Community
 
-Join our community on [Discord](https://discord.gg/fZYVnuGKAG) to connect with fellow learners, share your progress, and find support throughout your learning journey. Together, we grow stronger! 🌟
+Join our community on [Discord](https://discord.gg/3KmgbA8jZV) to connect with fellow learners, share your progress, and find support throughout your learning journey. Together, we grow stronger! 🌟
 
 ## 📝 Daily Log
 
@@ -31,11 +29,11 @@ Keep a daily log of your progress. Share your achievements, no matter how small,
 
 ## 💪 Let's Get Started!
 
-Are you ready to embark on this 100-day journey? Remember, the path to becoming a TypeScript developer is not just about reading and watching but about doing. Let's code, learn, and grow together! 🚀
+Are you ready to embark on this 100-day journey? Remember, the path to becoming a developer is not just about reading and watching but about doing. Let's code, learn, and grow together! 🚀
 
-### 📅 Start Date: [28/02/2024]
+### 📅 Start Date: [02/03/2024]
 
 *Happy Coding, and see you at the finish line!* 🏁
 *Please Star the Repositry🌟*
 
-**#100DaysOfTypeScript #CodeToLearn #LearningJourney**
+**#100DaysOfCode #CodeToLearn #LearningJourney**
