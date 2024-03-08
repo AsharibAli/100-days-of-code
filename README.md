@@ -9,7 +9,9 @@ The goal is simple: dedicate a portion of your day to learning and coding for th
 
 ## 📚 What You Will Learn
 
-- **Day 1-100:** Become a Developer, Beginner to Advance Level. 
+- **Become a Developer, Beginner to Advance Level.**
+- **Day 1- 15:** Complete the [45 Given Assignment Task](https://github.com/panaverse/learn-typescript/blob/master/NODE_PROJECTS/getting-started-exercises.md)
+- Will share the details once we complete the first 15 days.
 
 ## 📖 How to Approach This Challenge
 
