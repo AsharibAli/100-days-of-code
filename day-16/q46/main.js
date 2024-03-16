@@ -1,6 +1,9 @@
 var laptop = {
     make: "Dell",
-    model: "XPS 15",
-    year: 2021,
+    model: "New Elite Series",
+    year: 2024,
+    describe: function () {
+        console.log("This laptop is a ".concat(this.year, " ").concat(this.make, " ").concat(this.model, "."));
+    },
 };
-console.log(laptop);
+laptop.describe();

@@ -1,4 +1,4 @@
-let firstArray = [1, 2, 3];
-let secondArray = [4, 5, 6];
-let mergedArray = [...firstArray, ...secondArray];
-console.log(mergedArray);
+let pricesSet1 = [1200, 1500, 1100];
+let pricesSet2 = [1000, 1300, 1600];
+let combinedPrices = [...pricesSet1, ...pricesSet2].sort((a, b) => a - b);
+console.log(combinedPrices);

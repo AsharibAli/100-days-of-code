@@ -1,5 +1,5 @@
-**Q46** - Object Basics: Create an object representing a laptop with properties for make, model, and year. Log the object to the console.
+**Q46** - Enhanced Laptop Object: Construct an object for a laptop including properties make, model, year, and a method describe() that logs a sentence about the laptop.
 
-**Q47** - Array Destructuring: Given an array [1, 2, 3, 4, 5], use array destructuring to assign the first and third values to variables a and b. Log a and b.
+**Q47** - Array Destructuring: Given an array of objects representing different laptops, each with properties `make`, `model`, and `year`, use array destructuring to assign the first and second laptops to variables. Then, log these variables.
 
-**Q48** - Spread Operator in Arrays: Create two arrays of numbers. Merge them into a third array using the spread operator, and log the result.
+**Q48** - Combining Arrays with Spread Operator: Suppose you're comparing prices of two different sets of laptops. Use the spread operator to combine these arrays into a single array sorted in ascending order, then log the result.

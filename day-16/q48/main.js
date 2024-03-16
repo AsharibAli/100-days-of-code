@@ -7,7 +7,7 @@ var __spreadArray = (this && this.__spreadArray) || function (to, from, pack) {
     }
     return to.concat(ar || Array.prototype.slice.call(from));
 };
-var firstArray = [1, 2, 3];
-var secondArray = [4, 5, 6];
-var mergedArray = __spreadArray(__spreadArray([], firstArray, true), secondArray, true);
-console.log(mergedArray);
+var pricesSet1 = [1200, 1500, 1100];
+var pricesSet2 = [1000, 1300, 1600];
+var combinedPrices = __spreadArray(__spreadArray([], pricesSet1, true), pricesSet2, true).sort(function (a, b) { return a - b; });
+console.log(combinedPrices);
