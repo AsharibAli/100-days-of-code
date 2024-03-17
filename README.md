@@ -7,11 +7,9 @@ This is your starting point to transition from a complete beginner to a confiden
 
 The goal is simple: dedicate a portion of your day to learning and coding for the next 100 days. By the end of this journey, you will have a solid understanding of programming languages like javascript, and typescript, making you a proficient developer. 🌈
 
-## 📚 What You Will Learn
+## 📚 What You Will Become?
 
 - **Become a Developer, Beginner to Advance Level.**
-- **Day 1- 15:** Complete the [45 Given Assignment Task](https://github.com/panaverse/learn-typescript/blob/master/NODE_PROJECTS/getting-started-exercises.md)
-- Will share the details once we complete the first 15 days.
 
 ## 📖 How to Approach This Challenge
 
