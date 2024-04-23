@@ -1,3 +1,5 @@
+# Day-52 of `100-Days-Of-Code` Challenge
+
 **Day-52 Task:**
 Read the following article:
 [An Introduction to JavaScript](https://javascript.info/intro)

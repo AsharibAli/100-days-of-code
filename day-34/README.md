@@ -1,3 +1,5 @@
+# Day-34 of `100-Days-Of-Code` Challenge
+
 **Question 100:** Use the JavaScript Math object to find the square root of 144.
 
 **Question 101:** Generate a random integer between 1 and 10.
