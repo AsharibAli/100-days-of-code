@@ -4,4 +4,4 @@
 
 Today's task is to learn about:
 
-- [Next Steps](https://nextjs.org/learn/dashboard-app/next-steps)
+- [Next Steps](https://nextjs.org/learn/dashboard-app/next-steps)!
